@@ -1,0 +1,60 @@
+
+.MuiTab-textColorPrimary.Mui-selected {
+  color: var(--darkGreen) !important;
+}
+
+
+.PrivateTabIndicator-colorPrimary-4 {
+  background-color: var(--darkGreen) !important;
+}
+
+.prices-main2-tab header {
+    color: #3ECF8E;
+    background-color: #031016;
+}
+
+.prices-main2-tab header div div .MuiTabs-indicator {
+    background-color: #276384;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+
+.pmain1-swiper-pagination {
+  margin-bottom: 35px;
+  color: green;
+  background-color: white;
+}
+
+.swiper-pagination .swiper-pagination-bullet {
+  opacity: 1;
+  border: white solid 2px;
+  background-color: white;
+  scale: 1;
+}
+
+.swiper-pagination .swiper-pagination-bullet-active {
+  background-color: green;
+  margin-right: 20px;  
+}

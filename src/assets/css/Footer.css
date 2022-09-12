@@ -1,0 +1,12 @@
+.footer-acc {
+    background-color: #010C11;
+}
+
+.footer-acc > div {
+    border-top: 1px solid #8F8F8F;
+}
+
+.footer-acc > div > div:nth-child(2) {
+    color: 'white';
+    background-color: 'red';
+}
